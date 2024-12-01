@@ -1,0 +1,26 @@
+Louis;253142830;PortugalContinental
+--
+128;1'12'2024
+452;Benurom;analgesico;1;3.20;ComPrescricao;a
+462;Vinho do Porto;Produzido em Portugal;1;15.35;TaxaIntermedia;false;vinho
+354;Alface;vegetal colheito em Portugal;1;3.45;TaxaReduzida;true;ISO22000/GMP
+298;Cogumelos;Laminados Produzido na Alemanha;4;8.35;TaxaIntermedia;true;enlatados
+--
+127;29'11'2024
+452;Benurom;analgesico;1;3.20;ComPrescricao;a
+462;Vinho do Porto;Produzido em Portugal;1;15.35;TaxaIntermedia;false;vinho
+298;Cogumelos;Laminados Produzido na Alemanha;4;8.35;TaxaIntermedia;true;enlatados
+234;Leite;derivado de animal origem Portuguesa;6;9.50;TaxaReduzida;true;ISO22000/FSSC22000/HACCP/GMP
+354;Alface;vegetal colheito em Portugal;1;3.45;TaxaReduzida;true;ISO22000/GMP
+**
+Joana;394710032;Madeira
+130;1'12'2024
+--
+126;29'11'2024
+298;Cogumelos;Laminados Produzido na Alemanha;4;8.35;TaxaIntermedia;true;enlatados
+234;Leite;derivado de animal origem Portuguesa;6;9.50;TaxaReduzida;true;ISO22000/FSSC22000/HACCP/GMP
+354;Alface;vegetal colheito em Portugal;1;3.45;TaxaReduzida;true;ISO22000/GMP
+452;Benurom;analgesico;1;3.20;ComPrescricao;a
+462;Vinho do Porto;Produzido em Portugal;1;15.35;TaxaIntermedia;false;vinho
+354;Alface;vegetal colheito em Portugal;1;3.45;TaxaReduzida;true;ISO22000/GMP
+**

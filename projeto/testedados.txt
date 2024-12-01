@@ -1,0 +1,32 @@
+Louis;253142830;PortugalContinental
+Joana;394710032;Madeira
+Marco;758395205;Acores
+**
+1$942;Bifes;Vaca Criada em Portugal;3;6.10;TaxaIntermedia;true;congelados#843;Agua;Origem Portuguesa;1;1.50;TaxaNormal;true$Joana;394710032;Madeira$12/01/2005
+2$452;Benurom;analgesico;1;3.20;ComPrescricao;Marco Paulo#042;Ração Multi vitaminas;Produzido por Pedigree em Portugal;2;10.00;SemPrescricao;animais$Marco;758395205;Acores$23/12/2024
+3$042;Ração Multi vitaminas;Produzido por Pedigree em Portugal;2;10.00;SemPrescricao;animais#298;Cogumelos;Laminados Produzido na Alemanha;4;8.35;TaxaIntermedia;true;enlatados#234;Leite;derivado de animal origem Portuguesa;6;9.50;TaxaReduzida;true;ISO22000/FSSC22000/HACCP/GMP$Louis;253142830;PortugalContinental$6/09/2020
+4$819;Fraudas;Dodot ultra seco importado da Inglaterra;6;30.99;SemPrescricao;bebes#452;Benurom;analgesico;1;3.20;ComPrescricao;Ana Castro#042;Ração Multi vitaminas;Produzido por Pedigree em Portugal;2;10.00;SemPrescricao;animais#942;Bifes;Vaca Criada em Portugal;3;6.10;TaxaIntermedia;true;congelados$Marco;758395205;Acores$1/05/2000
+**
+819;Fraudas;Dodot ultra seco importado da Inglaterra;6;30.99;SemPrescricao;bebes
+042;Ração Multi vitaminas;Produzido por Pedigree em Portugal;2;10.00;SemPrescricao;animais
+
+452;Benurom;analgesico;1;3.20;ComPrescricao;a
+238;Brufen;anti-inflamatório;1;7.40;ComPrescricao;a
+
+942;Bifes;Vaca Criada em Portugal;3;6.10;TaxaIntermedia;true;congelados
+462;Vinho do Porto;Produzido em Portugal;1;15.35;TaxaIntermedia;false;vinho
+298;Cogumelos;Laminados Produzido na Alemanha;4;8.35;TaxaIntermedia;true;enlatados
+
+843;Agua;Origem Portuguesa;1;1.50;TaxaNormal;true
+671;Bolachas;Produzidas Em Espanha;4;7.60;TaxaNormal;false
+
+234;Leite;derivado de animal origem Portuguesa;6;9.50;TaxaReduzida;true;ISO22000/FSSC22000/HACCP/GMP
+354;Alface;vegetal colheito em Portugal;1;3.45;TaxaReduzida;true;ISO22000/GMP
+**
+
+
+
+
+
+
+

@@ -1,0 +1,3 @@
+998$Louis,2430830,PortugalContinental$12/1/2005
+1,Bife Carioca,Origem Portuguesa,12,9,00,TaxaIntermedia,true,congelados
+1,brufen,Antibiotoco,2,12,00,SemPrescricao,Mike
